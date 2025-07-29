@@ -1,0 +1,18 @@
+employee-churning-model/
+├── data/
+│   └── churn.csv
+├── notebooks/
+│   └── Employee_Churn_Prediction.ipynb
+├── src/
+│   ├── preprocessing.py
+│   ├── models.py
+│   └── evaluate.py
+├── outputs/
+│   ├── plots/
+│   │   ├── confusion_matrix.png
+│   │   ├── roc_curve.png
+│   │   └── model_comparison.png
+├── requirements.txt
+├── README.md
+├── LICENSE
+└── .gitignore
